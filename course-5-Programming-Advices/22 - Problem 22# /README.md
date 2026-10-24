@@ -1,6 +1,7 @@
 ```text
 Problem:
-Write a program to read N elements and store them in array then print all array elements and ask for a number to check, then print how many number a certain element repeated in that array.
+Write a program to read N elements and store them in array then print all array elements
+and ask for a number to check, then print how many number a certain element repeated in that array.
 
 Input:
 5
